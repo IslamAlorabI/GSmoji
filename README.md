@@ -1,3 +1,3 @@
-LasanFonts iOS (Font + Emoji)
-Created by:IslamAlOrabi
-Telegram:https://t.me/IslamAlOrabi
+SmojiFonts iOS (Font + Emoji)
+Created by: IslamAlOrabi
+Telegram: https://t.me/IslamAlOrabi
