@@ -1,3 +1,5 @@
-SmojiFonts iOS (Font + Emoji)
-Created by: IslamAlOrabi
-Telegram: https://t.me/IslamAlOrabi
+SmojiFonts is An iOS 15.4 (Font+Emoji)
+
+Created by: IslamAlOrabI
+
+Telegram: https://t.me/IslamAlOrabI
