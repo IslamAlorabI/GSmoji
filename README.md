@@ -1,4 +1,4 @@
-SmojiFonts is An iOS 15.4 (Font+Emoji)
+SmojiFonts is An Magisk Module with iOS 15.4 (Font+Emoji)
 
 Created by: IslamAlOrabI
 
