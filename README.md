@@ -1,5 +1,5 @@
 SmojiFonts is An Magisk Module with iOS 15.4 (Font+Emoji)
 
-Created by: IslamAlOrabI
+Created with ❤️ by: IslamAlOrabI
 
 Telegram: https://t.me/IslamAlOrabI
