@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packages>
+<string>com.google.android.googlequicksearchbox</string>
+<string>com.android.vending</string>
+<string>com.android.chrome</string>
+</packages>
