@@ -1,6 +1,6 @@
-iGmoji is An Magisk Module with Google Sans Font
+An Magisk Module With Google Sans Font And
 
-And Apple Font [Arabic] With Emoji Based On iOS 15.4
+Apple Font [Arabic] with Emoji Based On iOS 15.4
 
 There are Two Types of Apple Arabic Font [SanFranciscoArabic] :
 
