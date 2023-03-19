@@ -1,4 +1,6 @@
-SmojiFonts is An Magisk Module with iOS 15.4 (Font+Emoji)
+iGmoji is An Magisk Module with Google Font 
+
+And Apple Emoji Based on iOS 15.4
 
 Created with ❤️ by: IslamAlOrabI
 
