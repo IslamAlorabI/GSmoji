@@ -1,6 +1,6 @@
-An Magisk Module With Google Sans Font And
+An Magisk Module Based On Google Sans Font And
 
-Apple Font [Arabic] with Emoji Based On iOS 15.4
+Apple Font [Arabic] with Emoji from iOS 15.4
 
 There are Two Types of Apple Arabic Font :
 
