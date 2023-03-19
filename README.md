@@ -1,4 +1,4 @@
-iGmoji is An Magisk Module with Google Font 
+iGmoji is An Magisk Module with Google Sans Font 
 
 And Apple Emoji Based on iOS 15.4
 
