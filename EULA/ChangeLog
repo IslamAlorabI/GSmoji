@@ -1,0 +1,15 @@
+# Changelog
+All notable changes to this project
+will be documented in this file.
+
+
+## [Released]
+####################
+## [1.0] - 2023-3-7
+ــ Added Google Sans Font
+ــ Added Apple Arabic Font
+ــ Added Apple Emoji from iOS 15.4
+ــ Set display density to a default value
+ــ Added Google System Apps Support
+ [NOTE] Don't Hide Google Apps from Magisk
+ to execute the module in Google System Apps
