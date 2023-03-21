@@ -4,10 +4,6 @@
 
 **And SFArabic Font [Apple] with Emoji from iOS**
 
-**NOTE** : **English** Font is = **GoogleSans**
-
-Apple **Arabic** Font is = **SFArabicRounded**
-
 **Made** with ❤️ by : **IslamAlOrabI**
 
 **iGmoji TG-Channel** : https://t.me/iGmoji
