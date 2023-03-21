@@ -1,15 +1,13 @@
 [![Banner](/assets/iGmojiBanner.jpg)](https://github.com/IslamAlOrabI/iGmoji)
 
-An Magisk Module Based On Google Sans Font And
+**An Magisk Module Based On Google Sans Font [English]**
 
-Apple Font [Arabic] with Emoji from iOS 15.4
+**And Apple Font [Arabic] with Emoji from iOS**
 
-There are Four Types of the Module :
+**NOTE** : **English** Font is = **GoogleSans**
 
-[SFArabic] [SFArabicRounded]
+Apple **Arabic** Font is = **SFArabicRounded**
 
-[JustSFArabic] [JustSFArabicRounded]
+Made with ❤️ by : **IslamAlOrabI**
 
-Made with ❤️ by : IslamAlOrabI
-
-Telegram : https://t.me/IslamAlOrabI
+**Telegram** : https://t.me/IslamAlOrabI
