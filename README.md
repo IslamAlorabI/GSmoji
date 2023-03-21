@@ -10,4 +10,6 @@ Apple **Arabic** Font is = **SFArabicRounded**
 
 Made with ❤️ by : **IslamAlOrabI**
 
-**Telegram** : https://t.me/IslamAlOrabI
+**iGmoji TG-Channel** : https://t.me/iGmoji
+
+**Contact** : https://t.me/IslamAlOrabI
