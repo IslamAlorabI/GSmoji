@@ -6,6 +6,6 @@
 
 **Made** with ❤️ by : **IslamAlOrabI**
 
-**iGmoji Telegram Channel** : https://t.me/iGmoji
+**iGmoji Telegram Channel** : https://t.me/Shadow6by8
 
 **Contact in Telegram** : https://t.me/IslamAlOrabI
