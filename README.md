@@ -4,8 +4,6 @@
 
 **And Apple SFArabic Font with Emoji from iOS**
 
-**Made** with ❤️ by : **IslamAlOrabI**
+**Download from Channel** : **https://t.me/Shadow6by8**
 
-**iGmoji Telegram Channel** : https://t.me/Shadow6by8
-
-**Contact in Telegram** : https://t.me/IslamAlOrabI
+**Made with ❤️ by** : [**IslamAlOrabI**](https://t.me/IslamAlOrabI)
