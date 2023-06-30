@@ -1,4 +1,4 @@
-[![Banner](/assets/iGmojiBanner-v1.1.jpg)](https://github.com/IslamAlOrabI/iGmoji)
+[![Banner](/assets/GSmojiBanner-v1.1.jpg)](https://github.com/IslamAlOrabI/GSmoji)
 
 **Magisk Module Based On Google Sans Font**
 
