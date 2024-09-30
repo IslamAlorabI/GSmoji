@@ -1,4 +1,4 @@
-[![Banner](/assets/GSmojiBanner-v1.1.jpg)](https://github.com/IslamAlOrabI/GSmoji)
+[![Banner](/assets/GSmojiBanner-v1.1.jpg)](https://github.com/IslamAlorabI/GSmoji)
 
 **Magisk Module Based On Google Sans Font**
 
@@ -6,4 +6,4 @@
 
 **Download from Channel** : **https://t.me/Shadow6by8**
 
-**Made with ❤️ by** : [**IslamAlOrabI**](https://t.me/IslamAlOrabI)
+**Made with ❤️ by** : [**IslamAlorabI**](https://t.me/IslamAlorabI)
